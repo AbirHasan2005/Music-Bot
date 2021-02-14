@@ -21,7 +21,7 @@ SUDO_USERS = [
 GROUP = -1001256038785
 
 # Users must join the group before using the bot (note: the bot should be admin in the group if you enable this)
-USERS_MUST_JOIN = False
+USERS_MUST_JOIN = True
 
 # Choose the preferred language for your bot. If English leave as it is, or change to the code of any supported language.
 LANG = "en"
